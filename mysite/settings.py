@@ -25,7 +25,7 @@ SECRET_KEY = 'yf%zb@jks8-f2^5x1_77rni63ipzzv@sjc9hdbc9c6pxjmzd^e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['panoreal.pythonanywhere.com']
+ALLOWED_HOSTS = ['panoreal.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
