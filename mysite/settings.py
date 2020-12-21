@@ -124,3 +124,5 @@ STATIC_ROOT = BASE_DIR / 'static'
 #STATICFILES_DIRS = (
 #    BASE_DIR, 'static_assets',
 #)
+
+LOGIN_REDIRECT_URL = '/'
